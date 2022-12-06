@@ -1,2 +1,2 @@
 #!/bin/bash
-gnu/find
+find ./ -type d,f -empty
